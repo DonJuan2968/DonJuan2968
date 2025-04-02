@@ -1,5 +1,6 @@
+# Hello, i'm Justin and i am currently a Software Development student at VISTA College.
 
-## 🌐 Social Media:
+# 🌐 Social Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/justin-rabeling-647680328/) <br> (Justin Rabeling)
 
 # 💻 Tech Stack:
